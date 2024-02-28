@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name MintFoorprints)(type KiCad)(uri ${KIPRJMOD}/MintFoorprints)(options "")(descr ""))
+  (version 7)
+  (lib (name "MintFootprints")(type "KiCad")(uri "${KIPRJMOD}/MintFootprints")(options "")(descr ""))
 )
