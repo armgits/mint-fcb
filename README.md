@@ -30,7 +30,7 @@ This repository hosts the KiCAD project of the flight controller board.
 
 - **Physical Dimensions**
   - 26.5 x 26.25 mm
-  - 20 x 20 mm mount pattern
+  - 20 x 20 mm, M2 mount pattern
 
 ## Images
 
