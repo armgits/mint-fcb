@@ -1,0 +1,16 @@
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+*-backups
+_autosave-*
+*-rescue*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+*.net
+*.dsn
+*.ses

@@ -1,0 +1,71 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid dd23fd01-1099-4ece-b6be-7ad6c725e7c9)
+
+  (paper "A4")
+
+  (title_block
+    (title "Contents")
+    (date "2021-02-13")
+    (rev "A0.2")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 38.1) (size 50.8 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-0000600c1001)
+    (property "Sheetname" "MCU" (at 38.1 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 38.1 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MintAlpha2"
+        (path "/dd23fd01-1099-4ece-b6be-7ad6c725e7c9" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 127 38.1) (size 50.8 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00006016e67b)
+    (property "Sheetname" "IO" (at 127 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "IO.kicad_sch" (at 127 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MintAlpha2"
+        (path "/dd23fd01-1099-4ece-b6be-7ad6c725e7c9" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 215.9 38.1) (size 50.8 38.1) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-000060299e8c)
+    (property "Sheetname" "Power" (at 215.9 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 215.9 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MintAlpha2"
+        (path "/dd23fd01-1099-4ece-b6be-7ad6c725e7c9" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

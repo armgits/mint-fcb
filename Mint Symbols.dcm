@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP63300WU
+D 3A, 500kHz Buck DC/DC Converter, adjustable output voltage, TSOT-23-6
+K 3A Buck DC/DC
+F https://www.diodes.com/assets/Datasheets/AP63300-AP63301.pdf
+$ENDCMP
+#
+$CMP BMI088
+D Inertial Measurement Unit Digital Output 2.5V/3.3V Automotive
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI088-DS001-13.pdf
+$ENDCMP
+#
+$CMP DPS310XTSA1
+D INFINEON - DPS310XTSA1 - DIGITAL PRESSURE SENSOR, 1200HPA, VLGA-8
+F https://www.infineon.com/dgdl/Infineon-DPS310-DS-v01_00-EN.pdf?fileId=5546d462576f34750157750826c42242
+$ENDCMP
+#
+$CMP LD39200PU33R
+D 2 A high PSRR ultra low drop linear regulator with reverse current protection
+K 3.3V Regulator
+F https://www.st.com/resource/en/datasheet/ld39200.pdf
+$ENDCMP
+#
+$CMP LIS3MDLTR
+D Digital output magnetic sensor
+K Compass Magnetic sensor
+F https://www.mouser.in/datasheet/2/389/lis3mdl-1849592.pdf
+$ENDCMP
+#
+$CMP ZLDO1117G33TA
+D LDO Regulator Pos 3.3V 1A 4Pin SOT223 Diodes Inc ZLDO1117G33TA, Single Linear Voltage Regulator, 1A 3.3 V, 2%, 3-Pin SOT-223
+F https://www.diodes.com/assets/Datasheets/ZLDO1117.pdf
+$ENDCMP
+#
+#End Doc Library

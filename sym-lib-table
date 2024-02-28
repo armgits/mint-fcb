@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MintSymbols")(type "KiCad")(uri "${KIPRJMOD}/Mint Symbols.kicad_sym")(options "")(descr ""))
+)
