@@ -23,6 +23,7 @@ This repository hosts the KiCAD project of the flight controller board.
   - 4-in-1 ESC interface for Motor outputs 1-4
   - DJI Air Unit interface (UART 8)
   - 3x GPIO pins
+  - 1x microSD card slot for logging
 
 - **Power**
   - 4V - 32V voltage input (2S-7S)
