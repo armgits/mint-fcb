@@ -25,7 +25,7 @@ This repository hosts the KiCAD project of the flight controller board.
   - 3x GPIO pins
 
 - **Power**
-  - (4V - 32V) voltage input (2S-7S)
+  - 4V - 32V voltage input (2S-7S)
   - Onboard 5V, 2A BEC for low-power peripherals
 
 - **Physical Dimensions**
