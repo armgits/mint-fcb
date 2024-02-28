@@ -35,13 +35,9 @@ This repository hosts the KiCAD project of the flight controller board.
 ## Images
 
 <p align="center"><img src="Images/top-view.png" height=300></p>
-<em><p style="text-align: center;">Top</p></em>
 
 <p align="center"><img src="Images/top-3d.png" height=300></p>
-<em><p style="text-align: center;">Top 3D</p></em>
 
 <p align="center"><img src="Images/bottom-view.png" height=300></p>
-<em><p style="text-align: center;">Bottom</p></em>
 
 <p align="center"><img src="Images/bottom-3d.png" height=300></p>
-<em><p style="text-align: center;">Bottom 3D</p></em>
